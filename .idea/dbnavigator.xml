@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="DBNavigator.Project.DDLFileAttachmentManager">
+    <mappings />
+    <preferences />
+  </component>
+  <component name="DBNavigator.Project.DataEditorManager">
+    <record-view-column-sorting-type value="BY_INDEX" />
+    <value-preview-text-wrapping value="false" />
+    <value-preview-pinned value="false" />
+  </component>
   <component name="DBNavigator.Project.DatabaseBrowserManager">
     <autoscroll-to-editor value="false" />
     <autoscroll-from-editor value="true" />
@@ -17,8 +26,20 @@
   <component name="DBNavigator.Project.DatabaseFileManager">
     <open-files />
   </component>
+  <component name="DBNavigator.Project.DatabaseSessionManager">
+    <connection id="27973e87-978d-4bf9-b624-d0f4ccb60c67" />
+  </component>
   <component name="DBNavigator.Project.DatasetFilterManager">
     <filter-actions connection-id="27973e87-978d-4bf9-b624-d0f4ccb60c67" dataset="public.users" active-filter-id="" />
+    <filter-actions connection-id="27973e87-978d-4bf9-b624-d0f4ccb60c67" dataset="public.products" active-filter-id="EMPTY_FILTER">
+      <filter id="c64b8788-1f2d-4e63-9925-b4db729f8e8e" name="Filter 1" temporary="false" custom-name="false" type="basic" join-type="AND">
+        <condition column="product_id" operator="=" value="" active="true" />
+      </filter>
+    </filter-actions>
+    <filter-actions connection-id="27973e87-978d-4bf9-b624-d0f4ccb60c67" dataset="public.product_model" active-filter-id="" />
+  </component>
+  <component name="DBNavigator.Project.ExecutionManager">
+    <retain-sticky-names value="false" />
   </component>
   <component name="DBNavigator.Project.ObjectQuickFilterManager">
     <last-used-operator value="EQUAL" />

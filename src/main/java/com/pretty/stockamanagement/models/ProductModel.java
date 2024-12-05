@@ -2,7 +2,9 @@ package com.pretty.stockamanagement.models;
 
 import jakarta.persistence.*;
 import jdk.jfr.Category;
+import org.hibernate.annotations.CreationTimestamp;
 import org.hibernate.annotations.GenericGenerator;
+import org.hibernate.annotations.UpdateTimestamp;
 
 import java.time.LocalDate;
 
@@ -16,7 +18,11 @@ public class ProductModel {
 
     private String productId;
     private String productName;
+
+    @CreationTimestamp
     private LocalDate createdDate;
+
+    @UpdateTimestamp
     private LocalDate expiredDate;
 
     // Constructors

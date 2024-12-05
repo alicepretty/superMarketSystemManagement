@@ -1,1 +1,10 @@
 com/pretty/stockamanagement/StockamanagementApplication.class
+com/pretty/stockamanagement/ExceptionsHandling/ApiRequestExceptions/DuplicateExceptions.class
+com/pretty/stockamanagement/ExceptionsHandling/GlobalExceptionHandler.class
+com/pretty/stockamanagement/ExceptionsHandling/ErrorResponse.class
+com/pretty/stockamanagement/models/ProductModel.class
+com/pretty/stockamanagement/repository/ProductRepository.class
+com/pretty/stockamanagement/ExceptionsHandling/ApiRequestExceptions/NotFoundExceptions.class
+com/pretty/stockamanagement/services/ProductServices.class
+com/pretty/stockamanagement/controllers/ProductController.class
+com/pretty/stockamanagement/ExceptionsHandling/ErrorMessage.class

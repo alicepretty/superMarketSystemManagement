@@ -1,9 +1,9 @@
-/Users/alicemuhorakeye/Downloads/superMarketSystemManagement/src/main/java/com/pretty/stockamanagement/AgeExceptions.java
-/Users/alicemuhorakeye/Downloads/superMarketSystemManagement/src/main/java/com/pretty/stockamanagement/CustomException.java
+/Users/alicemuhorakeye/Downloads/superMarketSystemManagement/src/main/java/com/pretty/stockamanagement/ExceptionsHandling/ApiRequestExceptions/DuplicateExceptions.java
+/Users/alicemuhorakeye/Downloads/superMarketSystemManagement/src/main/java/com/pretty/stockamanagement/ExceptionsHandling/ApiRequestExceptions/NotFoundExceptions.java
+/Users/alicemuhorakeye/Downloads/superMarketSystemManagement/src/main/java/com/pretty/stockamanagement/ExceptionsHandling/ErrorMessage.java
+/Users/alicemuhorakeye/Downloads/superMarketSystemManagement/src/main/java/com/pretty/stockamanagement/ExceptionsHandling/ErrorResponse.java
+/Users/alicemuhorakeye/Downloads/superMarketSystemManagement/src/main/java/com/pretty/stockamanagement/ExceptionsHandling/GlobalExceptionHandler.java
 /Users/alicemuhorakeye/Downloads/superMarketSystemManagement/src/main/java/com/pretty/stockamanagement/StockamanagementApplication.java
-/Users/alicemuhorakeye/Downloads/superMarketSystemManagement/src/main/java/com/pretty/stockamanagement/User/UserServices.java
-/Users/alicemuhorakeye/Downloads/superMarketSystemManagement/src/main/java/com/pretty/stockamanagement/User/Users.java
-/Users/alicemuhorakeye/Downloads/superMarketSystemManagement/src/main/java/com/pretty/stockamanagement/User/UsersController.java
 /Users/alicemuhorakeye/Downloads/superMarketSystemManagement/src/main/java/com/pretty/stockamanagement/controllers/ProductController.java
 /Users/alicemuhorakeye/Downloads/superMarketSystemManagement/src/main/java/com/pretty/stockamanagement/models/ProductModel.java
 /Users/alicemuhorakeye/Downloads/superMarketSystemManagement/src/main/java/com/pretty/stockamanagement/repository/ProductRepository.java
